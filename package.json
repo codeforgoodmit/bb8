@@ -1,9 +1,9 @@
 {
-  "name": "hal",
+  "name": "bb8",
   "version": "0.0.0",
   "private": true,
   "author": "Anish Athalye <me@anishathalye.com>",
-  "description": "An evil robot for Code for Good",
+  "description": "Code for Good's Slack bot",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-conf": "^1.1.0",
