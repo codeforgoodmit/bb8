@@ -1,6 +1,8 @@
+#!/usr/bin/env bash
+
 set -eu
 
-source env
+source ./env
 while true; do
   bin/hubot -a slack
 done
