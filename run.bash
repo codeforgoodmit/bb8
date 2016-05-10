@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source ./env
 while true; do
+  source ./env
   bin/hubot -a slack
 done
