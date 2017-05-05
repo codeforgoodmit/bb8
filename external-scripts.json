@@ -4,6 +4,5 @@
   "hubot-group",
   "hubot-help",
   "hubot-redis-brain",
-  "hubot-shortcut",
-  "hubot-trello"
+  "hubot-shortcut"
 ]
